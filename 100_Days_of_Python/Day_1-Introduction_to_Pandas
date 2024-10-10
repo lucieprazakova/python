@@ -42,4 +42,14 @@ df = pd.DataFrame(data)
 # Task: 1. Print the first 5 rows of the DataFrame.
 print(df.head())
 
+# Task: 2. Sort the DataFrame by salary in descending order.
+df.sort_values(ascending=False) # Descending
+
+# Task: 3. Create a new column called "Bonus," which is 10% of each employee’s salary.
+
+
+# Task: 4. Print only the columns "Name" and "Salary."
+
+
+# Task: 5. Save the DataFrame to a CSV file.
 
