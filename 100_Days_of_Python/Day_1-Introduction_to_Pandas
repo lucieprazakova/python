@@ -23,3 +23,23 @@
 
 # Bonus task:
 # Find out how many employees have a salary higher than 60,000.
+
+######
+
+import pandas as pd
+
+# Data for the DataFrame
+data = {
+    'Name': ['John', 'Eva', 'Adam', 'Petra'],
+    'Age': [28, 34, 30, 25],
+    'Job': ['Programmer', 'Analyst', 'Data Scientist', 'Data Engineer'],
+    'Salary': [58000, 64000, 72000, 69000]
+}
+
+# Creating the DataFrame
+df = pd.DataFrame(data)
+
+# Task: 1. Print the first 5 rows of the DataFrame.
+print(df.head())
+
+
