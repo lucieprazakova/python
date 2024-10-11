@@ -35,7 +35,6 @@ data = {
     'Job': ['Programmer', 'Analyst', 'Data Scientist', 'Data Engineer'],
     'Salary': [58000, 64000, 72000, 69000]
 }
-
 # Creating the DataFrame
 df = pd.DataFrame(data)
 
