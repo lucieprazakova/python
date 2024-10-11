@@ -7,4 +7,6 @@ Repository created specificaly for my Python portfolio projects.
 
 ### Technologies Used
 - Python
+- Jupyter Notebook
 - Pandas
+
