@@ -9,6 +9,7 @@ https://ibm-learning.udemy.com/course/python-for-data-science-and-machine-learni
 ### Technologies Used
 - Python
 - Jupyter Notebook
-- Pandas
+- Matplotlib
 - Numpy
+- Pandas
 
